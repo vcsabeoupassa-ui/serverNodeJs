@@ -1,0 +1,14 @@
+npm init -y
+npm i express
+crie um arquivo chamado server.js e configure com ajuda da AI
+
+crie o arquivo .gitignore e adicione tudo que não é para enviar para o github
+Ex: pasta node_modeules, .eve
+
+git init
+git status
+git add .
+git commit -m "Primeiro commit"
+git branch -M main
+git remote add origin https://github.com/vcsabeoupassa-ui/serverNodeJs.git
+git push -u origin main
